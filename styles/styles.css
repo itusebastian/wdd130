@@ -42,6 +42,9 @@ h2 {
 main img {
     width: 150px;
     height: auto;
+    border: 1px solid #34495e;
+    padding: 8px;
+    box-shadow: 0 2px 6px rgb(0 0 0 / 0.1);
 }
 
 p {
